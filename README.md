@@ -1,3 +1,9 @@
+# Due to Heroku plan changes, this application can't be used anymore in a fashion described below. 
+
+---
+
+---
+
 # heroku-ping: keep your heroku websites alive
 
 Like some people, I use heroku to keep my homepage
